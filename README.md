@@ -1,2 +1,2 @@
 # Jenkins-Github-Integration
-Example1
+Example
